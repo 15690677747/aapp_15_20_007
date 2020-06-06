@@ -1,0 +1,56 @@
+{
+  "uid" : "8ea2f227dc3cc4d",
+  "name" : "test_0012",
+  "fullName" : "Scripts.test_0012.Test0012#test_0012",
+  "historyId" : "c5f4f57772230514ebd0a37d2f6163da",
+  "time" : {
+    "start" : 1591345009216,
+    "stop" : 1591345009217,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_0012"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test0012"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DVB79FC"
+  }, {
+    "name" : "thread",
+    "value" : "18296-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_0012"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ea2f227dc3cc4d.json",
+  "parameterValues" : [ ]
+}

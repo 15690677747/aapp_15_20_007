@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-DVB79FC",
+    "children" : [ {
+      "name" : "18296-MainThread",
+      "children" : [ {
+        "name" : "test_0012",
+        "uid" : "2ae923baef5e1835",
+        "parentUid" : "20ef01891cc56e559bf5c7f42ec40513",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591345009216,
+          "stop" : 1591345009217,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20ef01891cc56e559bf5c7f42ec40513"
+    } ],
+    "uid" : "605b06f84695313880cbd9aadd41b158"
+  } ]
+}

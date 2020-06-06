@@ -1,0 +1,56 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-DVB79FC",
+    "children" : [ {
+      "name" : "21260-MainThread",
+      "children" : [ {
+        "name" : "test_002",
+        "uid" : "b14d1755a5622393",
+        "parentUid" : "46628f433e66a80e6e7281b59cd556e7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1591347741515,
+          "stop" : 1591347741528,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_001",
+        "uid" : "5b207fdbc5656add",
+        "parentUid" : "46628f433e66a80e6e7281b59cd556e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591347741513,
+          "stop" : 1591347741513,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "46628f433e66a80e6e7281b59cd556e7"
+    }, {
+      "name" : "18296-MainThread",
+      "children" : [ {
+        "name" : "test_0012",
+        "uid" : "8ea2f227dc3cc4d",
+        "parentUid" : "20ef01891cc56e559bf5c7f42ec40513",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591345009216,
+          "stop" : 1591345009217,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20ef01891cc56e559bf5c7f42ec40513"
+    } ],
+    "uid" : "605b06f84695313880cbd9aadd41b158"
+  } ]
+}

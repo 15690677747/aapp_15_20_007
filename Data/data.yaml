@@ -1,0 +1,24 @@
+#name: "lili" # 冒号必须是英文格式，每个冒号后必须跟空格
+#Name: "nana,data"
+#
+#data: {"name":"lili","paswode":"1234"}
+#
+#data1:
+#  name: "lili"
+#  paseode: "1234"
+#
+#data2:
+#  - "nana"
+#  - "hoho"
+#data3:
+#  ["123","456"]
+
+#data4:
+#  - xxx: "123"
+#  - xxx: "234"
+#  - zzzz: "345"
+
+#name: 2020-11-11 12:12:12
+#time: 2020-11-11
+
+

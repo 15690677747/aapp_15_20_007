@@ -1,0 +1,81 @@
+{
+  "uid" : "5b207fdbc5656add",
+  "name" : "test_001",
+  "fullName" : "Scripts.allure_step.Test001#test_001",
+  "historyId" : "b85fe49e12ea8165f3025473b6be83b7",
+  "time" : {
+    "start" : 1591347741513,
+    "stop" : 1591347741513,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "实测文件",
+      "time" : {
+        "start" : 1591347741513,
+        "stop" : 1591347741513,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "allure_step"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test001"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DVB79FC"
+  }, {
+    "name" : "thread",
+    "value" : "21260-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.allure_step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b207fdbc5656add.json",
+  "parameterValues" : [ ]
+}
